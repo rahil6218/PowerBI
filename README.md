@@ -24,4 +24,7 @@ This Power BI Dashboard provides an in-depth analysis of road accidents, compari
 
 The data used in this dashboard is sourced from official road accident records for the years 2021 and 2022. Ensure that the data is clean and accurate before uploading it to Power BI using power query editor.
 
-## Snap of Maximum number of casualties by road type.
+## Snap of Maximum number of casualties by road type. (using pie chart)
+<img width="364" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/94f99177-6d27-4af6-9f08-dea84aba6bd8">
+## Snap of total number of casultiies. (using card)
+
