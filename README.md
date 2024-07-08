@@ -26,5 +26,10 @@ The data used in this dashboard is sourced from official road accident records f
 
 ## Snap of Maximum number of casualties by road type. (using pie chart)
 <img width="364" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/94f99177-6d27-4af6-9f08-dea84aba6bd8">
+
 ## Snap of total number of casultiies. (using card)
+<img width="360" alt="Screenshot 2024-05-03 at 4 39 32 PM" src="https://github.com/rahil6218/PowerBI/assets/163023453/cb61d541-f3b1-4ca2-93ed-247a8f3250b4">
+
+## Snap of comparison between 2021-20222
+
 
